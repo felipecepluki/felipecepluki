@@ -1,5 +1,5 @@
-👋 Hey, I’m Felipe. I love linux. Vegan BR.
+👋 **Hey, I'm Felipe Cepluki**  
 
-I build and ship software on the internet. <br />
-Working at EquilibrioAI Labs → https://www.equilibrioailabs.com/  <br />
-Building in public. Shipping often. Staying close to what matters.
+Building products & shipping software on the internet.  <br />
+🛠️ Founder at **EquilibrioAI Labs** → https://www.equilibrioailabs.com  <br />
+🐧 Linux enthusiast | 🚀 Building in public | 💻 Full-Stack & Mobile
